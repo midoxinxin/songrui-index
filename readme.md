@@ -1,3 +1,10 @@
-songrui 导师个人主页
+宋锐教授主页----Bootstrap
 
-wenxin.dong  2015/12/6
+
+
+
+主要功能：
+个人信息展示
+
+
+在线演示：http://songrui.applinzi.com/
